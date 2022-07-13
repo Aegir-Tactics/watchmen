@@ -77,11 +77,14 @@ Projects often would like to run their own indexer nodes, but the cost and size 
 ### AEGIR TACTICS API
 Aegir Tactics uses watchmen to power our api which tracks assets which players own. The api is used by our main game, discord mini-game, quest system, and discord holder role management. Using watchmen allows us to have full control over our game state without relying solely on 3rd party services.
 
-Aegir Tactics Card Game
+#### Aegir Tactics Card Game
+
 ![unknown](https://user-images.githubusercontent.com/5757420/178617973-ea18bb3d-195e-4a97-b91f-bc87c0b318f8.png)
 
-Aegir Dungeons (Discord Mini-Game)
+#### Aegir Dungeons (Discord Mini-Game)
+
 ![unknown](https://user-images.githubusercontent.com/5757420/178618016-5b7b8ae3-abfd-434e-a464-b3fd8f527b5d.png)
 
-Mythic Quests
+#### Mythic Quests
+
 ![unknown](https://user-images.githubusercontent.com/5757420/178618055-f2d24137-0b87-47f5-80f9-14b6f0f91bde.png)
